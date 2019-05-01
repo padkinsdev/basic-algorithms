@@ -1,3 +1,6 @@
+# library that contains the algorithms and
+# data types that are being tested
+
 class SortableList(list):
   def __init__(self, elements):
     super(SortableList, self).__init__(elements)
